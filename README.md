@@ -78,6 +78,9 @@ Replace `/path/to/xano-mcp` with the absolute path to your project directory.
 Example mac  
 node /Users/your-user/Documents/folder-name/xano-mcp/build/index.js
 
+Example windows
+node c:\\Users\\your-user\\Documents\\folder-name\\xano-mcp\\build\\index.js
+
 If you're in your're inside your directory you can run the comman 'pwd' into your terminal to get the absolute path.
 
 ## Xano MCP Tools Overview
